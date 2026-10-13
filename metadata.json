@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tactical Settings \u0026 Config Hub",
+  "description": "Customizable mobile shooter sensitivity calculator, crosshair tuner, and graphics preference manager with persistent local storage saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
